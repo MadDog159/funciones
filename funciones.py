@@ -1,5 +1,6 @@
 
 def mono():
+    print("mono es marico aka maldito daniel de mierda")
     return zapatico
 
 def correr():
