@@ -1,4 +1,4 @@
-
+a="juan"
 def mono():
     print("mono es marico aka maldito daniel de mierda")
     print("carlos tambien es tremendo marico y perra")
