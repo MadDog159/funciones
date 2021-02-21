@@ -16,7 +16,9 @@ def correr():
     camisita = cambiarcamisa()
     camisita = "pene"
     camisa()
-    
+def tumama():
+    print("me cogi a tu mama")
 # print(cuarto)    
 zapatico = "nike"
-correr()    
+correr() 
+tumama()   
